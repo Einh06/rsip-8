@@ -1,0 +1,12 @@
+[package]
+name = "chip-8"
+version = "0.1.0"
+authors = ["Florian Morel <florian.morel@wire.com>"]
+
+[dependencies]
+gl = "0.6.0"
+sdl2 = "0.30"
+rand = "0.3"
+
+[profile.release]
+debug = true

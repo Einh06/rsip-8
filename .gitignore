@@ -1,0 +1,7 @@
+/target/
+**/*.rs.bk
+.vscode
+callgrind*
+*.sublime*
+logs
+*.swp
